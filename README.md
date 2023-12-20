@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorena Hurtado</h1>
 <h3 align="center">I am a Software Developer</h3>
 
-- 🔭 I’m currently working on **Digital Design at University of Glasgow.**
+- 🔭 I’m currently working on **UX/UI software engineering at University of Glasgow.**
 
-- 🌱 I’m currently learning **Full-Stack Development with JavaScript, PHP, MySQL and Cypress.io at CodeSpace, Edinburgh College.**
+- 🌱 I’m currently studying a Master's degree in **Full-Stack Development at Universidad Internacional de La Rioja (UNIR)**
 
 - 📫 How to reach me **hilorena.contact@gmail.com**
 
