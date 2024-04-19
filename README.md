@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lorena Hurtado</h1>
-<h3 align="center">I am a Software Developer</h3>
-
-- 🔭 I’m currently working as a **UX/UI Digital Designer at University of Glasgow.**
 
 - 🌱 I’m currently studying a Master's degree in **Full-Stack Development at Universidad Internacional de La Rioja (UNIR)**
 
