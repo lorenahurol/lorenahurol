@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorena Hurtado</h1>
 
-- 🌱 I’m currently studying a Master's degree in **Full-Stack Development at Universidad Internacional de La Rioja (UNIR)**
+- 🌱 I’m a Master's graduate in Full Stack Development**
 
 - 📫 How to reach me **hilorena.contact@gmail.com**
 
