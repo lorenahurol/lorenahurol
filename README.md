@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorena Hurtado</h1>
 
-- 🌱 I’m a Master's graduate in Full Stack Development
+- 🌱 I’m a Full Stack Developer and Digital Designer
 
 - 📫 How to reach me **hilorena.contact@gmail.com**
 
